@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "317436756174",
+    "project_id": "my-halak",
+    "storage_bucket": "my-halak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317436756174:android:e0d659a76ab6587a3b509f",
+        "android_client_info": {
+          "package_name": "com.halak.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Kogz7xnv2ZhpaG9RlfW3v8ZHmQED9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317436756174-9dani6dhotel1c4n46vib55dv29lrbss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halak.salon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317436756174:android:71098f8c8818feee3b509f",
+        "android_client_info": {
+          "package_name": "com.halak.salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Kogz7xnv2ZhpaG9RlfW3v8ZHmQED9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317436756174-9dani6dhotel1c4n46vib55dv29lrbss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halak.salon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317436756174:android:bf639cc1fea208513b509f",
+        "android_client_info": {
+          "package_name": "com.halake.barber.halake_barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Kogz7xnv2ZhpaG9RlfW3v8ZHmQED9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317436756174-9dani6dhotel1c4n46vib55dv29lrbss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halak.salon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317436756174:android:b8dd1b43879c643b3b509f",
+        "android_client_info": {
+          "package_name": "com.halake.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Kogz7xnv2ZhpaG9RlfW3v8ZHmQED9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317436756174-9dani6dhotel1c4n46vib55dv29lrbss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halak.salon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317436756174:android:06ccd8f6c8f4c56b3b509f",
+        "android_client_info": {
+          "package_name": "com.halake.salon.halake_salon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Kogz7xnv2ZhpaG9RlfW3v8ZHmQED9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317436756174-iqu4tdqohe7jpsb2f4mcdjg4in3iuqr7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317436756174-9dani6dhotel1c4n46vib55dv29lrbss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.halak.salon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
